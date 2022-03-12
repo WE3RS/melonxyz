@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-dashboard": "^2.3.14",
+    "discord.js": "^13.6.0"
+  }
+}
